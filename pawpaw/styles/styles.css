@@ -1,0 +1,46 @@
+h3 {
+  color: #aeaa3d;
+  width: 2400px;
+  border: 1px solid black;
+  font-size: 70px;
+}
+
+h1 {
+  color: red;
+  font-size: 120px;
+  text-align: center;
+}
+
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 50px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: "Rubik Gemstones", system-ui;
+  background-color: #f0e68c;
+}
+
+p,
+li {
+  font-size: 36px;
+  line-height: 2;
+  letter-spacing: 1px;
+  color: orange;
+}
+
+body {
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
